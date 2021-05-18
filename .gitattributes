@@ -1,5 +1,5 @@
 # Auto detect text files and perform LF normalization
-*pl.pg*.sql linguist-detectable=true
+*.plpgsql linguist-detectable=true
 *.java linguist-detectable=false
 *.js linguist-detectable=false
 *.html linguist-detectable=false
