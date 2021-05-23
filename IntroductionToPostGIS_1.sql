@@ -1,6 +1,8 @@
 
 --PostGIS Giriş
 
+$$ LANGUAGE plpgsql, sql
+
 create database workshop;
 create extension postgis;
 
